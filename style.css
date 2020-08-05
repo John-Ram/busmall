@@ -1,0 +1,55 @@
+img {
+  width: 300px; 
+  height: 300px;
+  
+  }
+
+  h1{
+    font-size: xx-large;
+    position: absolute;
+    left: 450px;
+    top: 30px;
+  }
+
+  body{
+    background-color: turquoise;
+    color: green;
+  }
+  
+  #gift-list {
+    display: inline;
+    position: absolute;
+    left: 500px;
+    top: 100px;
+    list-style-type: none;
+    padding-left: 10px;
+  }
+  
+  #gift-list li{
+    float: left;
+    margin-left: 50px;
+    font-size: large;    
+  }
+
+  #gotta-get-that-gift{
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+    font-size: large;
+    line-height: 1.5;
+    padding-left: 10px;
+    width: 275px;
+    overflow: hidden;
+    position: absolute;
+    top: 90px;
+    left: 100px;
+  }
+
+  #myChart {
+    max-height: 300px;
+    max-width: 960px;
+    position: absolute;
+    right: 160px;
+    bottom: 0px;
+}
+  
